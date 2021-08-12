@@ -1,6 +1,7 @@
 @media screen and (max-width:992px) {
     #menu-1{
         display: none;
+        position:fixed;
     }
     nav{
         padding: 15px;
